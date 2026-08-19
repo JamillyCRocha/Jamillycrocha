@@ -29,106 +29,15 @@ Atualmente, direciono meus estudos e projetos para o desenvolvimento **Full Stac
 ## 🚀 Tecnologias
 
 <p align="left">
-
-  <img 
-    alt="React" 
-    title="React" 
-    height="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-  />
-
-  <img 
-    alt="TypeScript" 
-    title="TypeScript" 
-    height="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-  />
-
-  <img 
-    alt="Node.js" 
-    title="Node.js" 
-    height="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-  />
-
-  <img 
-    alt="Angular" 
-    title="Angular" 
-    height="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
-  />
-
-  <img 
-    alt="Python" 
-    title="Python" 
-    height="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-  />
-
-  <img 
-    alt="MySQL" 
-    title="MySQL" 
-    height="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-  />
-
-  <img 
-    alt="MariaDB" 
-    title="MariaDB" 
-    height="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" 
-  />
-
-  <img 
-    alt="Docker" 
-    title="Docker" 
-    height="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-  />
-
+<img alt="React" title="React" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">&nbsp;&nbsp;
+<img alt="TypeScript" title="TypeScript" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">&nbsp;&nbsp;
+<img alt="Node.js" title="Node.js" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;
+<img alt="Angular" title="Angular" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">&nbsp;&nbsp;
+<img alt="Python" title="Python" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;&nbsp;
+<img alt="MySQL" title="MySQL" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">&nbsp;&nbsp;
+<img alt="MariaDB" title="MariaDB" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg">&nbsp;&nbsp;
+<img alt="Docker" title="Docker" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </p>
-
----
-
-## 🛰️ Projeto em destaque
-
-### Vento Norte Aerospace
-
-Website institucional Full Stack desenvolvido para apresentar a **Vento Norte Aerospace**, sua equipe, setores, trajetória, parceiros e a Missão LASC.
-
-O projeto conta com uma aplicação frontend integrada a uma API própria, banco de dados e sistema de envio de mensagens por e-mail.
-
-### Principais recursos
-
-- Interface institucional responsiva
-- Página inicial
-- Página Sobre
-- Apresentação dos setores
-- Linha do tempo
-- Área de parceiros
-- Página dedicada à Missão LASC
-- Contagem regressiva configurável
-- Reprodução de vídeos e materiais institucionais
-- Formulário de contato integrado à API
-- Armazenamento de mensagens em banco de dados
-- Envio automático de e-mails
-- Validação de dados
-- Rate limiting
-- Testes manuais
-- Testes automatizados
-- Build de produção
-
-### Stack utilizada
-
-`React` `TypeScript` `Vite` `Node.js` `Express` `MySQL/MariaDB` `Nodemailer` `Jest` `Supertest`
-
-<p align="left">
-  <a href="https://github.com/JamillyCRocha/Vento-Norte-Aerospace---Site">
-    <img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ## 📊 Estatísticas
 
