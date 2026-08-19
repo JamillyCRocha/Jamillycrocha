@@ -46,14 +46,22 @@ Atualmente, direciono meus estudos e projetos para o desenvolvimento **Full Stac
 
 ---
 
+---
+
 ## 🎮 开发者模式 · Developer Mode
 
 ## 🍄 小休息 · Loading...
 
 <p align="center">
   <img
-    src="./assets/super%20mario%20nitendo%20GIF.gif"
+    src="./assets/mario.gif"
     width="650"
     alt="Super Mario animation"
   />
 </p>
+
+<p align="center">
+  <code>START → CODE → TEST → BUILD → DEPLOY 🚩</code>
+</p>
+
+---
