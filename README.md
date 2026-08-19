@@ -27,8 +27,6 @@ Atualmente, direciono meus estudos e projetos para o desenvolvimento **Full Stac
 
 </p>
 
----
-
 ## 🚀 Tecnologias
 
 <p align="left">
@@ -45,9 +43,9 @@ Atualmente, direciono meus estudos e projetos para o desenvolvimento **Full Stac
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/JamillyCRocha/JamillyCRocha/main/assets/super%20mario%20nitendo%20GIF.gif"
+    src="./assets/super%20mario%20nintendo%20GIF.gif"
     width="650"
-    alt="Super Mario"
+    alt="Super Mario animation"
   />
 </p>
 
